@@ -1,0 +1,11 @@
+#ifndef OUTCOME_NAMESPACE_HPP
+#define OUTCOME_NAMESPACE_HPP
+
+#include "config.hpp"
+
+OUTCOME_V2_NAMESPACE_EXPORT_BEGIN
+OUTCOME_V2_NAMESPACE_END
+
+namespace outcome = OUTCOME_V2_NAMESPACE;
+
+#endif
